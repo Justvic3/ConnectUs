@@ -1,0 +1,605 @@
+<!-- iPhone 14 Pro - 2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 3 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 5 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 7 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 6 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 18 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 21 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 14 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 8 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 4 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 9 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 13 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 10 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 11 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 12 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#1A255A"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- iPhone 14 Pro - 22 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_14_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_14_p"
+ />
+
+
+<!-- drawable/iphone_14_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="852dp"
+android:viewportWidth="393"
+android:viewportHeight="852"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V852H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V852H393V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
